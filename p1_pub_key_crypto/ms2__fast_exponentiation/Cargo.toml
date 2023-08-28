@@ -1,0 +1,6 @@
+[package]
+name = "ms2_fast_exponentiation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
